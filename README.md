@@ -24,9 +24,9 @@ This project demonstrates how to modify and apply inline styles in React. It sho
 
 Install dependencies: This project uses the following dependencies:
 
--react: 18.3.1
--react-dom: 18.3.1
--typescript (devDependency): 3.3.3
+- **react: 18.3.1**
+- **react-dom: 18.3.1**
+- **typescript (devDependency): 3.3.3**
 
 ## Install them by running:
 
