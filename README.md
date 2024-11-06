@@ -18,7 +18,7 @@ This project demonstrates how to modify and apply inline styles in React. It sho
 
 1. **Clone the repository** (or download the project):
    ```bash
-   git clone https://github.com/your-username/style-modification.git
+   git clone https://github.com/jbolan12/Inline-Styling-for-React-Elements
    cd style-modification
 
 
